@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AS01</string>
+    <string name="calculadora_de_imc_title">Calculadora de IMC</string>
+    <string name="peso_edit_text">Peso</string>
+    <string name="altura_edit_text">Altura</string>
+    <string name="altura_em_cm_text">Altura em cm:</string>
+    <string name="peso_em_kg_text">Peso em kg:</string>
+    <string name="calcular_button">Calcular</string>
+    <string name="result_number_text">Valor do IMC</string>
+    <string name="faixaimc">Faixa IMC</string>
+</resources>
